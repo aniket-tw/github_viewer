@@ -105,3 +105,12 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - GitHub for the API and design inspiration
 - Flutter team for the amazing framework
 - GetX team for the state management solution
+
+## Working view of the application
+
+
+
+https://github.com/user-attachments/assets/085bc834-1a83-4776-9f6d-da90b406bce1
+
+
+
